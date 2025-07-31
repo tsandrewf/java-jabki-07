@@ -8,9 +8,9 @@ import org.junit.jupiter.api.BeforeEach;
 import shape.Circle;
 import shape.Rectangle;
 
-import soundEmitter.Dog;
-import soundEmitter.AlarmClock;
-import soundEmitter.CarHorn;
+import soundemitter.Dog;
+import soundemitter.AlarmClock;
+import soundemitter.CarHorn;
 
 import file.TextFile;
 import file.ImageFile;

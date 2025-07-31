@@ -1,4 +1,4 @@
-package soundEmitter;
+package soundemitter;
 
 public class CarHorn implements SoundEmitter {
     @Override

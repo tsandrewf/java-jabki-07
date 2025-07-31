@@ -2,10 +2,10 @@ import shape.Shape;
 import shape.Circle;
 import shape.Rectangle;
 
-import soundEmitter.SoundEmitter;
-import soundEmitter.Dog;
-import soundEmitter.AlarmClock;
-import soundEmitter.CarHorn;
+import soundemitter.SoundEmitter;
+import soundemitter.Dog;
+import soundemitter.AlarmClock;
+import soundemitter.CarHorn;
 
 import file.File;
 import file.TextFile;
